@@ -1,0 +1,5 @@
+Z:\Taller IV\Proyecto\Protector\ProtectorWeb\bin\ProtectorWeb.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorWeb\bin\ProtectorWeb.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorWeb\obj\Debug\ProtectorWeb.csprojResolveAssemblyReference.cache
+Z:\Taller IV\Proyecto\Protector\ProtectorWeb\obj\Debug\ProtectorWeb.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorWeb\obj\Debug\ProtectorWeb.pdb

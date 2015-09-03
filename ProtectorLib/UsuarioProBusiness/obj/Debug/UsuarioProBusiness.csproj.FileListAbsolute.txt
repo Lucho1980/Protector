@@ -1,0 +1,22 @@
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProBusiness.dll
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProBusiness.pdb
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProData.dll
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProEntity.dll
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProODBC.dll
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProData.pdb
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProEntity.pdb
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\bin\Debug\UsuarioProODBC.pdb
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\obj\Debug\UsuarioProBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\obj\Debug\UsuarioProBusiness.dll
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProBusiness\obj\Debug\UsuarioProBusiness.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProBusiness.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProBusiness.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProData.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProEntity.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProODBC.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProData.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProEntity.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\bin\Debug\UsuarioProODBC.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\obj\Debug\UsuarioProBusiness.csprojResolveAssemblyReference.cache
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\obj\Debug\UsuarioProBusiness.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProBusiness\obj\Debug\UsuarioProBusiness.pdb

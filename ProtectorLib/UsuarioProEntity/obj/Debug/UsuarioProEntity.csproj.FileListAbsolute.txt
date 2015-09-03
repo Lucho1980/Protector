@@ -1,0 +1,10 @@
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProEntity\bin\Debug\UsuarioProEntity.dll
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProEntity\bin\Debug\UsuarioProEntity.pdb
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProEntity\obj\Debug\UsuarioProEntity.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProEntity\obj\Debug\UsuarioProEntity.dll
+C:\Users\Luciano\Desktop\Proyectos\UsuarioProLib\UsuarioProEntity\obj\Debug\UsuarioProEntity.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProEntity\bin\Debug\UsuarioProEntity.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProEntity\bin\Debug\UsuarioProEntity.pdb
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProEntity\obj\Debug\UsuarioProEntity.csprojResolveAssemblyReference.cache
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProEntity\obj\Debug\UsuarioProEntity.dll
+Z:\Taller IV\Proyecto\Protector\ProtectorLib\UsuarioProEntity\obj\Debug\UsuarioProEntity.pdb
