@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>14c1a7d7-e42f-4c04-be11-deca6d5a7774</ProjectGuid>
+    <ProjectGuid>{118F0714-33E8-4239-9BAB-56BCCE3FD673}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ODBC</RootNamespace>
