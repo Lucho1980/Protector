@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>14c1a7d7-e42f-4c04-be11-deca6d5a7774</ProjectGuid>
+    <ProjectGuid>50c3ab11-3d5a-432c-b75c-78c3281edbfc</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ODBC</RootNamespace>
-    <AssemblyName>ODBC</AssemblyName>
+    <RootNamespace>BusinessObject</RootNamespace>
+    <AssemblyName>BusinessObject</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
